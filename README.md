@@ -20,9 +20,9 @@
 <!--                        STATUS BADGES                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DeepakDarkiee&style=for-the-badge&color=818cf8&labelColor=1e1b4b&label=PROFILE+VIEWS)](https://github.com/DeepakDarkiee)
-[![Followers](https://img.shields.io/github/followers/DeepakDarkiee?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/DeepakDarkiee?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?color=818cf8&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeepakDarkiee&style=for-the-badge&labelColor=1e1b4b)](https://github.com/DeepakDarkiee?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=05-deepak-patidar&style=for-the-badge&color=818cf8&labelColor=1e1b4b&label=PROFILE+VIEWS)](https://github.com/05-deepak-patidar)
+[![Followers](https://img.shields.io/github/followers/05-deepak-patidar?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/05-deepak-patidar?tab=followers)
+[![Repos](https://img.shields.io/badge/dynamic/json?color=818cf8&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F05-deepak-patidar&style=for-the-badge&labelColor=1e1b4b)](https://github.com/05-deepak-patidar?tab=repositories)
 [![AWS](https://img.shields.io/badge/AWS-CERTIFIED-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1e1b4b)](https://deepakpatidar.in)
 [![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-22c55e?style=for-the-badge&labelColor=1e1b4b)](mailto:info.deepakpatidar@gmail.com)
 
@@ -234,17 +234,17 @@ deepak.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepakDarkiee&theme=github_dark" height="165" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=05-deepak-patidar&theme=github_dark" height="165" alt="Stats"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepakDarkiee&theme=github_dark" height="165" alt="Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=05-deepak-patidar&theme=github_dark" height="165" alt="Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepakDarkiee&theme=github_dark" width="100%" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=05-deepak-patidar&theme=github_dark" width="100%" alt="Profile Details"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=DeepakDarkiee&theme=github-dark-blue&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8&sideLabels=e2e8f0&dates=8b949e&currStreakNum=e2e8f0&sideNums=e2e8f0&border_radius=16" alt="GitHub Streak" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=05-deepak-patidar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8&sideLabels=e2e8f0&dates=8b949e&currStreakNum=e2e8f0&sideNums=e2e8f0&border_radius=16" alt="GitHub Streak" width="55%"/>
 
 </div>
 
@@ -258,7 +258,7 @@ deepak.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakDarkiee&bg_color=0d1117&color=818cf8&line=a78bfa&point=f472b6&area=true&area_color=1e1b4b&hide_border=true&radius=16" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=05-deepak-patidar&bg_color=0d1117&color=818cf8&line=a78bfa&point=f472b6&area=true&area_color=1e1b4b&hide_border=true&radius=16" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -272,7 +272,7 @@ deepak.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DeepakDarkiee&theme=radical&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=05-deepak-patidar&theme=radical&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
@@ -289,13 +289,13 @@ deepak.say_hi()
 <table border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td align="center">
-  <a href="https://github.com/DeepakDarkiee/Synapse-Just-a-First-AI">
+  <a href="https://github.com/05-deepak-patidar/Synapse-Just-a-First-AI">
     <img src="https://img.shields.io/badge/🤖_Synapse_AI-First_AI_Project-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
   </a>
   <br/><br/><sub>LangChain · OpenAI · Python · AI Agent</sub>
 </td>
 <td align="center">
-  <a href="https://github.com/DeepakDarkiee?tab=repositories">
+  <a href="https://github.com/05-deepak-patidar?tab=repositories">
     <img src="https://img.shields.io/badge/📦_All_Repos-63%2B_Public-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
   </a>
   <br/><br/><sub>AI · Backend · Cloud · MLOps · Open Source</sub>
@@ -336,9 +336,9 @@ deepak.say_hi()
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-deepakpatidar.in-818cf8?style=for-the-badge&labelColor=1e1b4b)](https://deepakpatidar.in)
 [![Articles](https://img.shields.io/badge/📝_Articles-article.deepakpatidar.in-f472b6?style=for-the-badge&labelColor=1e1b4b)](https://article.deepakpatidar.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-patidar-darkiee/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/05-deepak-patidar/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deepak-patidar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DeepakDarkiee)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/05-deepak-patidar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deep_patidar.py/)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-22c55e?style=for-the-badge&labelColor=1e1b4b)](https://drive.google.com/file/d/1WkriGsvGJ83TdWaEvfdJqia6wk76Bpvw/view)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.deepakpatidar@gmail.com)
@@ -356,9 +356,9 @@ deepak.say_hi()
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DeepakDarkiee/DeepakDarkiee/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepakDarkiee/DeepakDarkiee/output/github-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/DeepakDarkiee/DeepakDarkiee/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/05-deepak-patidar/05-deepak-patidar/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/05-deepak-patidar/05-deepak-patidar/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/05-deepak-patidar/05-deepak-patidar/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
