@@ -41,7 +41,6 @@
 class DeepakPatidar:
     def __init__(self):
         self.role     = "Staff Software & AI Engineer"
-        self.company  = "Darkiee  ·  Indore, India 🇮🇳"
         self.website  = "deepakpatidar.in"
         self.writing  = "article.deepakpatidar.in"
 
