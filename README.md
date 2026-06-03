@@ -268,11 +268,13 @@ deepak.say_hi()
 <!--                        TROPHIES                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🧩 Code Insights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=05-deepak-patidar&theme=radical&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=05-deepak-patidar&theme=github_dark" height="165" alt="Most Committed Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=05-deepak-patidar&theme=github_dark&utcOffset=5.5" height="165" alt="Productive Time"/>
 
 </div>
 
@@ -338,7 +340,7 @@ deepak.say_hi()
 [![Articles](https://img.shields.io/badge/📝_Articles-article.deepakpatidar.in-f472b6?style=for-the-badge&labelColor=1e1b4b)](https://article.deepakpatidar.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/05-deepak-patidar/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deepak-patidar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/05-deepak-patidar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/05deepakpatidar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deep_patidar.py/)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-22c55e?style=for-the-badge&labelColor=1e1b4b)](https://drive.google.com/file/d/1WkriGsvGJ83TdWaEvfdJqia6wk76Bpvw/view)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.deepakpatidar@gmail.com)
