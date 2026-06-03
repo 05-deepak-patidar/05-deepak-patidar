@@ -290,15 +290,29 @@ deepak.say_hi()
 
 <table border="0" cellspacing="0" cellpadding="10">
 <tr>
-<td align="center">
+<td align="center" width="33%">
   <a href="https://github.com/05-deepak-patidar/Synapse-Just-a-First-AI">
-    <img src="https://img.shields.io/badge/🤖_Synapse_AI-First_AI_Project-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
+    <img src="https://img.shields.io/badge/🤖_Synapse_AI-Streaming_LLM_Service-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
   </a>
-  <br/><br/><sub>LangChain · OpenAI · Python · AI Agent</sub>
+  <br/><br/><sub>FastAPI · SSE Streaming · Claude · Groq · Tool Calling · Pydantic</sub>
 </td>
-<td align="center">
+<td align="center" width="33%">
+  <a href="https://github.com/05-deepak-patidar/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-Generative-AI">
+    <img src="https://img.shields.io/badge/📄_Resume_Analyzer-Generative_AI_Tool-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
+  </a>
+  <br/><br/><sub>LLM · Selenium · Resume Analysis · Job Matching · 30% Time Saved</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/05-deepak-patidar/rekognition-identity-verification">
+    <img src="https://img.shields.io/badge/🔐_AWS_Rekognition-Identity_Verification-f472b6?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1e1b4b"/>
+  </a>
+  <br/><br/><sub>Amazon Rekognition · Face Matching · AWS Lambda · Cloud AI</sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
   <a href="https://github.com/05-deepak-patidar?tab=repositories">
-    <img src="https://img.shields.io/badge/📦_All_Repos-63%2B_Public-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
+    <img src="https://img.shields.io/badge/📦_All_Repos-63%2B_Public-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
   </a>
   <br/><br/><sub>AI · Backend · Cloud · MLOps · Open Source</sub>
 </td>
