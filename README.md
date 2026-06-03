@@ -244,7 +244,7 @@ deepak.say_hi()
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=05-deepak-patidar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8&sideLabels=e2e8f0&dates=8b949e&currStreakNum=e2e8f0&sideNums=e2e8f0&border_radius=16" alt="GitHub Streak" width="55%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=05-deepak-patidar&theme=github_dark" width="55%" alt="GitHub Stats"/>
 
 </div>
 
