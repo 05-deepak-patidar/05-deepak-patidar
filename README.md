@@ -2,16 +2,17 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                          HERO HEADER                               -->
+<!--        Darkiee brand theme — orange #F77F03 → purple #8B5CF6       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,60:312e81,100:4c1d95&height=240&section=header&text=Deepak%20Patidar&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Staff+Software+and+AI+Engineer&descAlignY=58&descAlign=50&descColor=a5b4fc&v=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,55:6d28d9,80:8b5cf6,100:f77f03&height=240&section=header&text=Deepak%20Patidar&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Staff+Software+and+AI+Engineer+%C2%B7+Creator+of+Seekiee&descAlignY=58&descAlign=50&descColor=ffd9b0&v=5" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       ANIMATED TYPING                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=818CF8&center=true&vCenter=true&random=false&width=720&height=48&v=3&lines=Building+AI+Agents+that+ship+to+production;LangChain+%7C+LangGraph+%7C+OpenAI+%7C+HuggingFace;AWS+Certified+Cloud+%26+ML+Specialist;FastAPI+%7C+Django+%7C+Celery+%7C+Microservices;Vector+DBs+%7C+RAG+%7C+Embeddings+%7C+MLOps;Indore%2C+India+%E2%86%92+Building+for+the+World" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=FF8D28&center=true&vCenter=true&random=false&width=720&height=48&v=4&lines=Creator+of+Seekiee+%E2%80%94+AI+Job+Search+Command+Center;Building+AI+Agents+that+ship+to+production;LangChain+%7C+LangGraph+%7C+OpenAI+%7C+HuggingFace;AWS+Certified+Cloud+%26+ML+Specialist;FastAPI+%7C+Django+%7C+Celery+%7C+Microservices;Vector+DBs+%7C+RAG+%7C+Embeddings+%7C+MLOps;Indore%2C+India+%E2%86%92+Building+for+the+World" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -20,11 +21,11 @@
 <!--                        STATUS BADGES                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=05-deepak-patidar&style=for-the-badge&color=818cf8&labelColor=1e1b4b&label=PROFILE+VIEWS)](https://github.com/05-deepak-patidar)
-[![Followers](https://img.shields.io/github/followers/05-deepak-patidar?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/05-deepak-patidar?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?color=818cf8&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F05-deepak-patidar&style=for-the-badge&labelColor=1e1b4b)](https://github.com/05-deepak-patidar?tab=repositories)
-[![AWS](https://img.shields.io/badge/AWS-CERTIFIED-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1e1b4b)](https://deepakpatidar.in)
-[![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-22c55e?style=for-the-badge&labelColor=1e1b4b)](mailto:info.deepakpatidar@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=05-deepak-patidar&style=for-the-badge&color=f77f03&labelColor=1e293b&label=PROFILE+VIEWS)](https://github.com/05-deepak-patidar)
+[![Followers](https://img.shields.io/github/followers/05-deepak-patidar?style=for-the-badge&color=8b5cf6&labelColor=1e293b&label=FOLLOWERS)](https://github.com/05-deepak-patidar?tab=followers)
+[![Repos](https://img.shields.io/badge/dynamic/json?color=ff8d28&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F05-deepak-patidar&style=for-the-badge&labelColor=1e293b)](https://github.com/05-deepak-patidar?tab=repositories)
+[![AWS](https://img.shields.io/badge/AWS-CERTIFIED-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1e293b)](https://deepakpatidar.in)
+[![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-10b981?style=for-the-badge&labelColor=1e293b)](mailto:info.deepakpatidar@gmail.com)
 
 </div>
 
@@ -41,6 +42,7 @@
 class DeepakPatidar:
     def __init__(self):
         self.role     = "Staff Software & AI Engineer"
+        self.creator  = "Seekiee — AI job search command center"
         self.website  = "deepakpatidar.in"
         self.writing  = "article.deepakpatidar.in"
 
@@ -71,6 +73,53 @@ deepak.say_hi()
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     CREATOR OF SEEKIEE                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🔍 Creator of Seekiee
+
+<div align="center">
+
+<a href="https://github.com/05-deepak-patidar/seekiee-public">
+  <img src="https://img.shields.io/badge/SEEKIEE-AI%20Job%20Search%20Command%20Center-f77f03?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9"/>
+</a>
+
+<br/><br/>
+
+**Evaluate offers · Generate tailored CVs · Scan job portals · Track applications — from your terminal or the web app.**
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center" width="33%">
+  <a href="https://github.com/05-deepak-patidar/seekiee-public">
+    <img src="https://img.shields.io/badge/⭐_GitHub-seekiee--public-ff8d28?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b"/>
+  </a>
+  <br/><br/><sub>Open source · Star & explore the code</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://seekiee-docs.darkiee.com/">
+    <img src="https://img.shields.io/badge/📚_Docs-seekiee--docs.darkiee.com-8b5cf6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=1e293b"/>
+  </a>
+  <br/><br/><sub>Guides · Setup · CLI & web app reference</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://seekiee.darkiee.com">
+    <img src="https://img.shields.io/badge/🚀_Live_App-seekiee.darkiee.com-10b981?style=for-the-badge&logoColor=white&labelColor=1e293b"/>
+  </a>
+  <br/><br/><sub>Try Seekiee in your browser</sub>
+</td>
+</tr>
+</table>
+
+<sub>Built with Next.js · LLMs · Playwright · ATS-aware CV generation · A Darkiee product</sub>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                        METRICS ROW                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -79,16 +128,16 @@ deepak.say_hi()
 <table border="0" cellspacing="0" cellpadding="6">
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/6%2B%20YEARS-PYTHON%20%26%20AI-818cf8?style=for-the-badge&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/6%2B%20YEARS-PYTHON%20%26%20AI-f77f03?style=for-the-badge&labelColor=1e293b"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/50%2B%20AI-SYSTEMS%20SHIPPED-a78bfa?style=for-the-badge&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/50%2B%20AI-SYSTEMS%20SHIPPED-8b5cf6?style=for-the-badge&labelColor=1e293b"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/AWS-CLOUD%20%26%20ML%20CERT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/AWS-CLOUD%20%26%20ML%20CERT-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1e293b"/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/63%2B-PUBLIC%20REPOS-f472b6?style=for-the-badge&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/63%2B-PUBLIC%20REPOS-ff8d28?style=for-the-badge&labelColor=1e293b"/>
 </td>
 </tr>
 </table>
@@ -139,7 +188,7 @@ deepak.say_hi()
 </div>
 
 > [!TIP]
-> 🔭 **Currently Building** — Production-grade multi-agent AI systems with LangGraph + real-time inference pipelines on AWS SageMaker. Open to collaborate on ambitious AI projects.
+> 🔭 **Currently Building** — [Seekiee](https://seekiee-docs.darkiee.com/), the AI job search command center, plus production-grade multi-agent AI systems with LangGraph + real-time inference pipelines on AWS SageMaker. Open to collaborate on ambitious AI projects.
 
 ---
 
@@ -152,11 +201,11 @@ deepak.say_hi()
 **🧩 LLM Frameworks & Agents**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1e1b4b?style=for-the-badge&logo=langchain&logoColor=a5b4fc)
+![LangGraph](https://img.shields.io/badge/LangGraph-1e293b?style=for-the-badge&logo=langchain&logoColor=ff8d28)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-1e1b4b?style=for-the-badge&logoColor=a5b4fc)
+![Ollama](https://img.shields.io/badge/Ollama-1e293b?style=for-the-badge&logoColor=ff8d28)
 
 **🧠 Deep Learning**
 
@@ -167,7 +216,7 @@ deepak.say_hi()
 
 **🗃️ Vector Databases & Search**
 
-![Pinecone](https://img.shields.io/badge/Pinecone-1e1b4b?style=for-the-badge&logoColor=a5b4fc)
+![Pinecone](https://img.shields.io/badge/Pinecone-1e293b?style=for-the-badge&logoColor=ff8d28)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-5C4EE5?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
@@ -258,7 +307,7 @@ deepak.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=05-deepak-patidar&bg_color=0d1117&color=818cf8&line=a78bfa&point=f472b6&area=true&area_color=1e1b4b&hide_border=true&radius=16" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=05-deepak-patidar&bg_color=0f172a&color=ff8d28&line=8b5cf6&point=f77f03&area=true&area_color=1e293b&hide_border=true&radius=16" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -290,21 +339,29 @@ deepak.say_hi()
 
 <table border="0" cellspacing="0" cellpadding="10">
 <tr>
+<td align="center" colspan="3">
+  <a href="https://github.com/05-deepak-patidar/seekiee-public">
+    <img src="https://img.shields.io/badge/🔍_Seekiee-AI_Job_Search_Command_Center-f77f03?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9"/>
+  </a>
+  <br/><br/><sub>Next.js · LLMs · Playwright · Tailored CV Generation · Offer Evaluation · <a href="https://seekiee-docs.darkiee.com/">Docs</a> · <a href="https://seekiee.darkiee.com">Live App</a></sub>
+</td>
+</tr>
+<tr>
 <td align="center" width="33%">
   <a href="https://github.com/05-deepak-patidar/Synapse-Just-a-First-AI">
-    <img src="https://img.shields.io/badge/🤖_Synapse_AI-Streaming_LLM_Service-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
+    <img src="https://img.shields.io/badge/🤖_Synapse_AI-Streaming_LLM_Service-ff8d28?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b"/>
   </a>
   <br/><br/><sub>FastAPI · SSE Streaming · Claude · Groq · Tool Calling · Pydantic</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/05-deepak-patidar/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-Generative-AI">
-    <img src="https://img.shields.io/badge/📄_Resume_Analyzer-Generative_AI_Tool-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
+    <img src="https://img.shields.io/badge/📄_Resume_Analyzer-Generative_AI_Tool-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b"/>
   </a>
   <br/><br/><sub>LLM · Selenium · Resume Analysis · Job Matching · 30% Time Saved</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/05-deepak-patidar/rekognition-identity-verification">
-    <img src="https://img.shields.io/badge/🔐_AWS_Rekognition-Identity_Verification-f472b6?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1e1b4b"/>
+    <img src="https://img.shields.io/badge/🔐_AWS_Rekognition-Identity_Verification-6d28d9?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1e293b"/>
   </a>
   <br/><br/><sub>Amazon Rekognition · Face Matching · AWS Lambda · Cloud AI</sub>
 </td>
@@ -312,7 +369,7 @@ deepak.say_hi()
 <tr>
 <td align="center" colspan="3">
   <a href="https://github.com/05-deepak-patidar?tab=repositories">
-    <img src="https://img.shields.io/badge/📦_All_Repos-63%2B_Public-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
+    <img src="https://img.shields.io/badge/📦_All_Repos-63%2B_Public-f77f03?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b"/>
   </a>
   <br/><br/><sub>AI · Backend · Cloud · MLOps · Open Source</sub>
 </td>
@@ -333,9 +390,9 @@ deepak.say_hi()
 
 | Period | Role | Highlight |
 |:------:|:----:|:---------:|
-| 🟢 **Dec 2023 – Present** | Senior Python Developer & AI Engineer | Agentic AI · LLM Systems |
-| 🔵 **Apr 2021 – Dec 2023** | Senior Python Backend Developer | Microservices · AWS |
-| 🟣 **Mar 2020 – Apr 2021** | Python Developer | Django · FastAPI |
+| 🟠 **Dec 2023 – Present** | Senior Python Developer & AI Engineer | Agentic AI · LLM Systems |
+| 🟣 **Apr 2021 – Dec 2023** | Senior Python Backend Developer | Microservices · AWS |
+| 🔵 **Mar 2020 – Apr 2021** | Python Developer | Django · FastAPI |
 | ⚪ **Apr 2019 – Mar 2020** | Junior Python Developer | Foundations |
 
 </div>
@@ -350,13 +407,14 @@ deepak.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-deepakpatidar.in-818cf8?style=for-the-badge&labelColor=1e1b4b)](https://deepakpatidar.in)
-[![Articles](https://img.shields.io/badge/📝_Articles-article.deepakpatidar.in-f472b6?style=for-the-badge&labelColor=1e1b4b)](https://article.deepakpatidar.in)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-deepakpatidar.in-f77f03?style=for-the-badge&labelColor=1e293b)](https://deepakpatidar.in)
+[![Seekiee](https://img.shields.io/badge/🔍_Seekiee-seekiee--docs.darkiee.com-8b5cf6?style=for-the-badge&labelColor=1e293b)](https://seekiee-docs.darkiee.com/)
+[![Articles](https://img.shields.io/badge/📝_Articles-article.deepakpatidar.in-ff8d28?style=for-the-badge&labelColor=1e293b)](https://article.deepakpatidar.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/05-deepak-patidar/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deepak-patidar)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/05deepakpatidar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deep_patidar.py/)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-22c55e?style=for-the-badge&labelColor=1e1b4b)](https://drive.google.com/file/d/1WkriGsvGJ83TdWaEvfdJqia6wk76Bpvw/view)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-10b981?style=for-the-badge&labelColor=1e293b)](https://drive.google.com/file/d/1WkriGsvGJ83TdWaEvfdJqia6wk76Bpvw/view)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.deepakpatidar@gmail.com)
 
 </div>
@@ -393,6 +451,6 @@ deepak.say_hi()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,40:312e81,70:1e1b4b,100:0f172a&height=130&section=footer&v=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f77f03,20:8b5cf6,45:6d28d9,75:1e293b,100:0f172a&height=130&section=footer&v=5" width="100%"/>
 
 </div>
