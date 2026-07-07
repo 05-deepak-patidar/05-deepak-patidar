@@ -120,6 +120,45 @@ deepak.say_hi()
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     OPEN SOURCE: CLAUDE-SKILLS                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🧠 Open Source · Claude Skills
+
+<div align="center">
+
+<a href="https://github.com/05-deepak-patidar/claude-skills">
+  <img src="https://img.shields.io/badge/CLAUDE--SKILLS-24%20Engineering%20Disciplines%20for%20AI%20Agents-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9"/>
+</a>
+
+<br/><br/>
+
+**Reusable engineering disciplines packaged as AI agent skills — blocking gates, failure-mode-first thinking, and evidence-based verification to turn "plausible" AI output into shippable code.**
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/05-deepak-patidar/claude-skills">
+    <img src="https://img.shields.io/badge/⭐_GitHub-claude--skills-ff8d28?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b"/>
+  </a>
+  <br/><br/><sub>MIT licensed · Star & explore the skills</sub>
+</td>
+<td align="center" width="50%">
+  <img src="https://img.shields.io/badge/📦_Portable-Claude_Code_·_Cursor_·_Codex_·_Windsurf-10b981?style=for-the-badge&logoColor=white&labelColor=1e293b"/>
+  <br/><br/><sub>Plain markdown · Zero deps · Install by copy</sub>
+</td>
+</tr>
+</table>
+
+<sub>Define &amp; Design · Build · Verify · Ship &amp; Operate · AI Engineering — production-grade standards for any coding agent</sub>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                        METRICS ROW                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -344,6 +383,14 @@ deepak.say_hi()
     <img src="https://img.shields.io/badge/🔍_Seekiee-AI_Job_Search_Command_Center-f77f03?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9"/>
   </a>
   <br/><br/><sub>Next.js · LLMs · Playwright · Tailored CV Generation · Offer Evaluation · <a href="https://seekiee-docs.darkiee.com/">Docs</a> · <a href="https://seekiee.darkiee.com">Live App</a></sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+  <a href="https://github.com/05-deepak-patidar/claude-skills">
+    <img src="https://img.shields.io/badge/🧠_Claude_Skills-24_Engineering_Disciplines_for_AI_Agents-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9"/>
+  </a>
+  <br/><br/><sub>Open Source · MIT · Blocking gates · Failure-mode-first · Evidence-based verification · Portable across Claude Code · Cursor · Codex · Windsurf</sub>
 </td>
 </tr>
 <tr>
