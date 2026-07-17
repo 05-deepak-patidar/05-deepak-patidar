@@ -124,6 +124,14 @@ deepak.say_hi()
   <br/><br/><sub>Sample chapters &amp; details</sub>
 </td>
 </tr>
+<tr>
+<td align="center" colspan="4">
+  <a href="https://www.amazon.com/author/05-deepak-patidar" title="Deepak Patidar — official Amazon author page">
+    <img src="https://img.shields.io/badge/✍️_Amazon_Author_Page-amazon.com%2Fauthor%2F05--deepak--patidar-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1e293b" alt="Deepak Patidar Amazon author page"/>
+  </a>
+  <br/><br/><sub>Follow for new releases &amp; author updates</sub>
+</td>
+</tr>
 </table>
 
 <sub>Debugging &amp; system design · First-principles reasoning · Building production AI without skill decay · Communication, influence &amp; career growth</sub>
@@ -516,6 +524,7 @@ deepak.say_hi()
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-deepakpatidar.in-f77f03?style=for-the-badge&labelColor=1e293b)](https://deepakpatidar.in)
 [![Book](https://img.shields.io/badge/📖_My_Book-The_Rebuilt_Engineer-6d28d9?style=for-the-badge&labelColor=1e293b)](https://deepakpatidar.in/book/)
+[![Amazon Author](https://img.shields.io/badge/✍️_Amazon-Author_Page-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1e293b)](https://www.amazon.com/author/05-deepak-patidar)
 [![Seekiee](https://img.shields.io/badge/🔍_Seekiee-seekiee--docs.darkiee.com-8b5cf6?style=for-the-badge&labelColor=1e293b)](https://seekiee-docs.darkiee.com/)
 [![Articles](https://img.shields.io/badge/📝_Articles-article.deepakpatidar.in-ff8d28?style=for-the-badge&labelColor=1e293b)](https://article.deepakpatidar.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/05-deepak-patidar/)
