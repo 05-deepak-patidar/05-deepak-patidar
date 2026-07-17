@@ -5,14 +5,14 @@
 <!--        Darkiee brand theme — orange #F77F03 → purple #8B5CF6       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,55:6d28d9,80:8b5cf6,100:f77f03&height=240&section=header&text=Deepak%20Patidar&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Staff+Software+and+AI+Engineer+%C2%B7+Creator+of+Seekiee&descAlignY=58&descAlign=50&descColor=ffd9b0&v=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,55:6d28d9,80:8b5cf6,100:f77f03&height=240&section=header&text=Deepak%20Patidar&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Staff+Software+and+AI+Engineer+%C2%B7+Author+%C2%B7+Creator+of+Seekiee&descAlignY=58&descAlign=50&descColor=ffd9b0&v=6" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       ANIMATED TYPING                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=FF8D28&center=true&vCenter=true&random=false&width=720&height=48&v=4&lines=Creator+of+Seekiee+%E2%80%94+AI+Job+Search+Command+Center;Building+AI+Agents+that+ship+to+production;LangChain+%7C+LangGraph+%7C+OpenAI+%7C+HuggingFace;AWS+Certified+Cloud+%26+ML+Specialist;FastAPI+%7C+Django+%7C+Celery+%7C+Microservices;Vector+DBs+%7C+RAG+%7C+Embeddings+%7C+MLOps;Indore%2C+India+%E2%86%92+Building+for+the+World" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=FF8D28&center=true&vCenter=true&random=false&width=720&height=48&v=5&lines=Author+of+The+Rebuilt+Engineer+%F0%9F%93%96;Creator+of+Seekiee+%E2%80%94+AI+Job+Search+Command+Center;Building+AI+Agents+that+ship+to+production;LangChain+%7C+LangGraph+%7C+OpenAI+%7C+HuggingFace;AWS+Certified+Cloud+%26+ML+Specialist;FastAPI+%7C+Django+%7C+Celery+%7C+Microservices;Vector+DBs+%7C+RAG+%7C+Embeddings+%7C+MLOps;Indore%2C+India+%E2%86%92+Building+for+the+World" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -42,6 +42,7 @@
 class DeepakPatidar:
     def __init__(self):
         self.role     = "Staff Software & AI Engineer"
+        self.author   = "The Rebuilt Engineer — deepakpatidar.in/book"
         self.creator  = "Seekiee — AI job search command center"
         self.website  = "deepakpatidar.in"
         self.writing  = "article.deepakpatidar.in"
@@ -69,6 +70,65 @@ deepak.say_hi()
 ```
 
 <br clear="right"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--              AUTHOR: THE REBUILT ENGINEER (BOOK)                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📖 Author of *The Rebuilt Engineer*
+
+<div align="center">
+
+<a href="https://deepakpatidar.in/book/" title="The Rebuilt Engineer — Rebuilding Real Engineering Skill in the Age of AI, by Deepak Patidar">
+  <img src="https://deepakpatidar.in/assets/images/book/rebuilt-engineer-cover.jpg" alt="The Rebuilt Engineer book cover — Rebuilding Real Engineering Skill in the Age of AI by Deepak Patidar" height="300"/>
+</a>
+
+<br/><br/>
+
+<a href="https://deepakpatidar.in/book/">
+  <img src="https://img.shields.io/badge/THE%20REBUILT%20ENGINEER-Rebuilding%20Real%20Engineering%20Skill%20in%20the%20Age%20of%20AI-f77f03?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=6d28d9" alt="The Rebuilt Engineer — Rebuilding Real Engineering Skill in the Age of AI"/>
+</a>
+
+<br/><br/>
+
+**A first-principles path for software engineers to rebuild real capability — debugging, system design, and deep reasoning — and turn AI back into an amplifier of thinking, never a replacement for it.**
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center" width="25%">
+  <a href="https://www.amazon.com/dp/B0H8ZTYS2Q" title="Buy The Rebuilt Engineer paperback on Amazon">
+    <img src="https://img.shields.io/badge/📕_Paperback-Amazon-ff8d28?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1e293b" alt="The Rebuilt Engineer paperback on Amazon"/>
+  </a>
+  <br/><br/><sub>6×9&Prime; · 252 pages</sub>
+</td>
+<td align="center" width="25%">
+  <a href="https://www.amazon.com/dp/B0H91BJDVP" title="Buy The Rebuilt Engineer hardcover on Amazon">
+    <img src="https://img.shields.io/badge/📗_Hardcover-Amazon-8b5cf6?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1e293b" alt="The Rebuilt Engineer hardcover on Amazon"/>
+  </a>
+  <br/><br/><sub>Premium print edition</sub>
+</td>
+<td align="center" width="25%">
+  <a href="https://www.amazon.in/dp/B0H8ZPMXWV" title="Buy The Rebuilt Engineer Kindle eBook on Amazon">
+    <img src="https://img.shields.io/badge/📱_Kindle-eBook-10b981?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1e293b" alt="The Rebuilt Engineer Kindle edition on Amazon"/>
+  </a>
+  <br/><br/><sub>Read anywhere, instantly</sub>
+</td>
+<td align="center" width="25%">
+  <a href="https://deepakpatidar.in/book/" title="The Rebuilt Engineer — official book page">
+    <img src="https://img.shields.io/badge/🌐_Book_Page-deepakpatidar.in%2Fbook-f77f03?style=for-the-badge&logoColor=white&labelColor=1e293b" alt="The Rebuilt Engineer official book page"/>
+  </a>
+  <br/><br/><sub>Sample chapters &amp; details</sub>
+</td>
+</tr>
+</table>
+
+<sub>Debugging &amp; system design · First-principles reasoning · Building production AI without skill decay · Communication, influence &amp; career growth</sub>
+
+</div>
 
 <br/>
 
@@ -455,6 +515,7 @@ deepak.say_hi()
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-deepakpatidar.in-f77f03?style=for-the-badge&labelColor=1e293b)](https://deepakpatidar.in)
+[![Book](https://img.shields.io/badge/📖_My_Book-The_Rebuilt_Engineer-6d28d9?style=for-the-badge&labelColor=1e293b)](https://deepakpatidar.in/book/)
 [![Seekiee](https://img.shields.io/badge/🔍_Seekiee-seekiee--docs.darkiee.com-8b5cf6?style=for-the-badge&labelColor=1e293b)](https://seekiee-docs.darkiee.com/)
 [![Articles](https://img.shields.io/badge/📝_Articles-article.deepakpatidar.in-ff8d28?style=for-the-badge&labelColor=1e293b)](https://article.deepakpatidar.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/05-deepak-patidar/)
